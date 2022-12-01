@@ -1,2 +1,3 @@
 Nama	: Hafshah Fitri Afifah
 Stack	: QA
+Deskripsi : Programming is about learn, learn, and learn
