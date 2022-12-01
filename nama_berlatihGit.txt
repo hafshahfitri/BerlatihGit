@@ -1,3 +1,7 @@
 Nama	: Hafshah Fitri Afifah
 Stack	: QA
+<<<<<<< HEAD
 Hobi 	: Membaca, Travelling
+=======
+Deskripsi : Programming is about learn, learn, and learn
+>>>>>>> description
